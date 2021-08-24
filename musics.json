@@ -3,12 +3,12 @@
     "title": "Listen.moe",
     "artist": "moemoe",
     "src": "https://listen.moe/stream",
-    "cover": "/cover/listen.moe.gif"
+    "cover": "cover/listen.moe.gif"
   },
   {
     "title": "Algorithms",
     "artist": "Chad Crouch",
     "src": "musics/Chad_Crouch_-_Algorithms.mp3",
-    "cover": "/cover/listen.moe.gif"
+    "cover": "cover/listen.moe.gif"
   }
 ]
