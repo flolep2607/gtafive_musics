@@ -8,7 +8,12 @@
   },
  
 
-
+  {
+    "title": "Buffalo",
+    "artist": "Slide & Face",
+    "src": "musics/buffalou.mp3",
+    "cover": "https://cdn.discordapp.com/attachments/848590352088563742/881965865833209856/slidefeatface3.png"
+  },
 
   {
     "title": "410'Attack",
