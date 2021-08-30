@@ -18,11 +18,14 @@
   {
     "title": "410'Attack",
     "artist": "Slide",
-    "src": "https://cdn.discordapp.com/attachments/881892232641269830/882001345454944276/410-slide-410attack-audio-officiel.mp3"
+    "src": "https://cdn.discordapp.com/attachments/881892232641269830/882001345454944276/410-slide-410attack-audio-officiel.mp3",
+    "cover": "cover/slide/410attack.png"
   },
   {
     "title": "410'FS #1",
     "artist": "Slide",
-    "src": "https://cdn.discordapp.com/attachments/881892232641269830/882004394516811796/Mastering_vatos_.wav"
+    "src": "https://cdn.discordapp.com/attachments/881892232641269830/882004394516811796/Mastering_vatos_.wav",
+    "cover": "cover/slide/410fs.png"
+
   }
 ]
