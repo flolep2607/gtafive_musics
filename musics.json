@@ -11,9 +11,18 @@
     "src": "musics/buffalou.mp3",
     "cover": "cover/zpk/zpk.png"
   },
+ 
+
+
+
   {
-    "title": "Jakes dpuis longtemps",
-    "artist": "Unknow",
-    "src": "https://cdn.discordapp.com/attachments/848271846717128724/860688535496294401/Jake_-_Depuis_longtemp_.mp3"
+    "title": "410'Attack",
+    "artist": "Slide",
+    "src": "https://cdn.discordapp.com/attachments/881892232641269830/882001345454944276/410-slide-410attack-audio-officiel.mp3"
+  },
+  {
+    "title": "410'FS #1",
+    "artist": "Slide",
+    "src": "https://cdn.discordapp.com/attachments/881892232641269830/882004394516811796/Mastering_vatos_.wav"
   }
 ]
