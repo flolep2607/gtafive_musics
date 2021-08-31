@@ -6,30 +6,24 @@
     "src": "musics/slide/buffalou.mp3",
     "cover": "cover/zpk/zpk.png"
   },
- 
-
   {
     "title": "Vagos Day",
     "artist": "Vasco",
     "src": "https://cdn.discordapp.com/attachments/882016973045792789/882018710766895104/vasco-vagos-day.mp3",
     "cover": "cover/vasco/vagosdays.png"
   },
- 
   {
     "title": "Baby Puta",
     "artist": "Vasco",
     "src": "https://cdn.discordapp.com/attachments/882016973045792789/882017082550657095/vasco-baby-puta_1.mp3",
     "cover": "cover/vasco/babyputa.png"
   },
- 
-
   {
     "title": "Buffalo",
     "artist": "Slide & Face",
     "src": "musics/slide/buffalou.mp3",
     "cover": "https://cdn.discordapp.com/attachments/848590352088563742/881965865833209856/slidefeatface3.png"
   },
-
   {
     "title": "410'Attack",
     "artist": "Slide",
@@ -41,6 +35,5 @@
     "artist": "Slide",
     "src": "https://cdn.discordapp.com/attachments/881892232641269830/882004394516811796/Mastering_vatos_.wav",
     "cover": "cover/slide/410fs.png"
-
   }
 ]
