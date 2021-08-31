@@ -1,11 +1,12 @@
 [
-
   {
     "title": "Debajo De Mi",
     "artist": "Zepekenio",
     "src": "musics/slide/buffalou.mp3",
     "cover": "cover/zpk/zpk.png"
   },
+
+
   {
     "title": "Vagos Day",
     "artist": "Vasco",
@@ -18,6 +19,8 @@
     "src": "https://cdn.discordapp.com/attachments/882016973045792789/882017082550657095/vasco-baby-puta_1.mp3",
     "cover": "cover/vasco/babyputa.png"
   },
+
+
   {
     "title": "Buffalo",
     "artist": "Slide & Face",
@@ -35,5 +38,183 @@
     "artist": "Slide",
     "src": "https://cdn.discordapp.com/attachments/881892232641269830/882004394516811796/Mastering_vatos_.wav",
     "cover": "cover/slide/410fs.png"
+  },
+  {
+    "title": "410'FS #1",
+    "artist": "Slide",
+    "src": "https://cdn.discordapp.com/attachments/881892232641269830/882004394516811796/Mastering_vatos_.wav",
+    "cover": "cover/slide/410fs.png"
+  },
+
+
+  {
+    "title": "Eh",
+    "artist": "ZEEPH",
+    "src": "https://cdn.discordapp.com/attachments/882016973045792789/882243525406752778/eh.mp3",
+    "cover": "https://cdn.discordapp.com/attachments/882017319377850398/882239166455361556/Screenshot_1.jpg"
+  },
+  {
+    "title": "High",
+    "artist": "ZEEPH",
+    "src": "https://cdn.discordapp.com/attachments/882016973045792789/882242636126253136/high.mp3",
+    "cover": "https://cdn.discordapp.com/attachments/882017319377850398/882239434924363806/Screenshot_4.jpg"
+  },
+  {
+    "title": "Tatiana",
+    "artist": "ZEEPH",
+    "src": "https://cdn.discordapp.com/attachments/882016973045792789/882244056061706240/tatiana.mp3",
+    "cover": "https://cdn.discordapp.com/attachments/882017319377850398/882238991162818620/Screenshot_3.jpg"
+  },
+  {
+    "title": "Réalise (feat. Luni)",
+    "artist": "ZEEPH",
+    "src": "https://cdn.discordapp.com/attachments/882016973045792789/882244578512629800/realise-feat-luni.mp3",
+    "cover": "https://cdn.discordapp.com/attachments/882017319377850398/882238542145810492/Screenshot_2.jpg"
+  },
+  {
+    "title": "GTA",
+    "artist": "ZEEPH",
+    "src": "https://cdn.discordapp.com/attachments/882016973045792789/882245252986069063/gta.mp3",
+    "cover": "https://cdn.discordapp.com/attachments/882017319377850398/882237810764042250/Screenshot_1.jpg"
+  },
+
+
+  {
+    "title": "A la bien feat  Vasco ",
+    "artist": "Cristobal",
+    "src": "https://cdn.discordapp.com/attachments/882016973045792789/882245786329554944/cristobal-a-la-bien-feat-vasco-regard-la-description-stp.mp3",
+    "cover": "https://cdn.discordapp.com/attachments/882017319377850398/882022950184828928/Screenshot_19.png"
+  },
+  {
+    "title": "La Vague Bleu Feat Vasco & Nato",
+    "artist": "Cristobal",
+    "src": "https://cdn.discordapp.com/attachments/882016973045792789/882246356847165520/cristobal-la-vague-bleu-feat-vasco-nato.mp3",
+    "cover": "https://cdn.discordapp.com/attachments/882017319377850398/882022248100282368/Screenshot_18.png"
+  },
+  {
+    "title": "OUTRO LA FIN",
+    "artist": "Gonzalo",
+    "src": "https://cdn.discordapp.com/attachments/882016973045792789/882246814680629299/gonzalo-genaro-outro-la-fin-flashback.mp3",
+    "cover": ""
+  },
+
+
+  {
+    "title": "FREEZER",
+    "artist": "Zeta",
+    "src": "https://cdn.discordapp.com/attachments/882016973045792789/882247162283573248/gtalife-410-freezer-410th-street-official-music-video.mp3",
+    "cover": ""
+  },
+
+
+  {
+    "title": "Varrios Los Aztecas",
+    "artist": "Noxo",
+    "src": "https://cdn.discordapp.com/attachments/882016973045792789/882247552181891092/pando-varrios-los-aztecas-clip-boscow-prod-a-voluptyk.mp3",
+    "cover": ""
+  },
+  {
+    "title": "Para Dios Mis Hermanos",
+    "artist": "Noxo",
+    "src": "https://cdn.discordapp.com/attachments/882016973045792789/882251325230960750/gtav-rp-pando-ortega-julio-para-dios-mis-hermanos-fin-des-los-aztecas.mp3",
+    "cover": "https://cdn.discordapp.com/attachments/882017319377850398/882019480702697542/unknown.png"
+  },
+
+
+  {
+    "title": "GRAS DU BIDE - RAP ANTI KONNA",
+    "artist": "Idater",
+    "src": "https://cdn.discordapp.com/attachments/882016973045792789/882247938657648650/gras-du-bide-rap-anti-konnar-gta-rp.mp3",
+    "cover": ""
+  },
+
+
+  {
+    "title": "F4L",
+    "artist": "WONEZER",
+    "src": "https://cdn.discordapp.com/attachments/882016973045792789/882248298516328488/lsconfidential-bax-x-brams-f4l.mp3",
+    "cover": ""
+  },
+
+
+  {
+    "title": "Futur",
+    "artist": "Blazx",
+    "src": "https://cdn.discordapp.com/attachments/882016973045792789/882248628478042162/trix-futur-official-music-video.mp3",
+    "cover": ""
+  },
+
+
+  {
+    "title": "Vert",
+    "artist": "KJ",
+    "src": "https://cdn.discordapp.com/attachments/882016973045792789/882248958800461875/flashback-kj-vert-feat-tj-clipofficiel.mp3",
+    "cover": ""
+  },
+
+
+  {
+    "title": "LA FIN",
+    "artist": "AZUL Record ",
+    "src": "https://cdn.discordapp.com/attachments/882016973045792789/882249281908654120/azul-record-la-fin-ls-confidential.mp3",
+    "cover": ""
+  },
+
+
+  {
+    "title": "Drick - Intro",
+    "artist": "Drick",
+    "src": "https://cdn.discordapp.com/attachments/882016973045792789/882249668724138025/gtalite-drick-intro-clip-officiel.mp3",
+    "cover": ""
+  },
+
+
+  {
+    "title": "Depart",
+    "artist": "ZedxReal",
+    "src": "https://cdn.discordapp.com/attachments/882016973045792789/882250046391857172/la-tige-depart-gtarp.mp3",
+    "cover": ""
+  },
+
+
+  {
+    "title": "Oscar - Barrio ft. Quemado",
+    "artist": "KING GANG",
+    "src": "https://cdn.discordapp.com/attachments/882016973045792789/882250621963599962/gtalife-oscar-barrio-ft-quemado-official-video-clip.mp3",
+    "cover": ""
+  },
+  {
+    "title": "Ricco Marabunta",
+    "artist": "KING GANG",
+    "src": "https://cdn.discordapp.com/attachments/882016973045792789/882252808815005706/gtalife-marabunta-ricco-ft-mara.mp3",
+    "cover": "https://cdn.discordapp.com/attachments/882017319377850398/882018503622795274/unknown.png"
+  },
+  {
+    "title": "Ricco Uzi",
+    "artist": "KING GANG",
+    "src": "https://cdn.discordapp.com/attachments/882016973045792789/882254345368895539/gtalife-ricco-uzi-official-clip-video.mp3",
+    "cover": ""
+  },
+
+
+  {
+    "title": "Trix ft.Koffi - Freestyle Batard",
+    "artist": "Trix et Koffi",
+    "src": "https://cdn.discordapp.com/attachments/882016973045792789/882252177454813244/trix-ftkoffi-freestyle-batard-official-music-video.mp3",
+    "cover": ""
+  },
+
+
+  {
+    "title": "AZTECAS VOL.1 - NUEVO",
+    "artist": "RS9 KB9",
+    "src": "https://cdn.discordapp.com/attachments/882016973045792789/882253319639285830/lsc-aztecas-vol1-nuevo-musique-officiel.mp3",
+    "cover": "https://cdn.discordapp.com/attachments/882017319377850398/882018525982646293/Capture_decran_2021-08-30_235411.png"
+  },
+  {
+    "title": "VIVA LA MARA",
+    "artist": "RS9 KB9",
+    "src": "https://cdn.discordapp.com/attachments/882016973045792789/882253618181464094/flashland-viva-la-mara-juan-clip-officiel.mp3",
+    "cover": ""
   }
 ]
